@@ -1,4 +1,4 @@
-def reformatNumber(self, number):
+def reformatNumber(number):
     number = number.replace('-', '')
     number = number.replace(' ', '')
 
